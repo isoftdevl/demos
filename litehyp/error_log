@@ -1,0 +1,1 @@
+[27-Sep-2021 11:51:31 America/New_York] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.3.0". You are running 5.6.40. in /home/bitmzgue/elgiustrade.com/scripts/demo/litehyp/core/vendor/composer/platform_check.php on line 25
