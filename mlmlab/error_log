@@ -1,0 +1,21 @@
+[27-Sep-2021 16:28:35 UTC] PHP Fatal error:  Uncaught ErrorException: Undefined variable: general in /home/bitmzgue/elgiustrade.com/scripts/demo/mlmlab/core/storage/framework/views/2dd56cd266b97c7d69175603f328aeef62e02259.php:7
+Stack trace:
+#0 /home/bitmzgue/elgiustrade.com/scripts/demo/mlmlab/core/storage/framework/views/2dd56cd266b97c7d69175603f328aeef62e02259.php(7): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined varia...', '/home/bitmzgue/...', 7, Array)
+#1 /home/bitmzgue/elgiustrade.com/scripts/demo/mlmlab/core/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(107): require('/home/bitmzgue/...')
+#2 /home/bitmzgue/elgiustrade.com/scripts/demo/mlmlab/core/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(108): Illuminate\Filesystem\Filesystem::Illuminate\Filesystem\{closure}()
+#3 /home/bitmzgue/elgiustrade.com/scripts/demo/mlmlab/core/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(58): Illuminate\Filesystem\Filesystem->getRequire('/home/bitmzgue/...', Array)
+#4 /home/bit in /home/bitmzgue/elgiustrade.com/scripts/demo/mlmlab/core/storage/framework/views/2dd56cd266b97c7d69175603f328aeef62e02259.php on line 7
+[27-Sep-2021 18:55:55 UTC] PHP Fatal error:  Uncaught ErrorException: Undefined variable: general in /home/bitmzgue/elgiustrade.com/scripts/demo/mlmlab/core/storage/framework/views/2dd56cd266b97c7d69175603f328aeef62e02259.php:7
+Stack trace:
+#0 /home/bitmzgue/elgiustrade.com/scripts/demo/mlmlab/core/storage/framework/views/2dd56cd266b97c7d69175603f328aeef62e02259.php(7): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined varia...', '/home/bitmzgue/...', 7, Array)
+#1 /home/bitmzgue/elgiustrade.com/scripts/demo/mlmlab/core/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(107): require('/home/bitmzgue/...')
+#2 /home/bitmzgue/elgiustrade.com/scripts/demo/mlmlab/core/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(108): Illuminate\Filesystem\Filesystem::Illuminate\Filesystem\{closure}()
+#3 /home/bitmzgue/elgiustrade.com/scripts/demo/mlmlab/core/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(58): Illuminate\Filesystem\Filesystem->getRequire('/home/bitmzgue/...', Array)
+#4 /home/bit in /home/bitmzgue/elgiustrade.com/scripts/demo/mlmlab/core/storage/framework/views/2dd56cd266b97c7d69175603f328aeef62e02259.php on line 7
+[27-Sep-2021 18:56:02 UTC] PHP Fatal error:  Uncaught ErrorException: Undefined variable: general in /home/bitmzgue/elgiustrade.com/scripts/demo/mlmlab/core/storage/framework/views/2dd56cd266b97c7d69175603f328aeef62e02259.php:7
+Stack trace:
+#0 /home/bitmzgue/elgiustrade.com/scripts/demo/mlmlab/core/storage/framework/views/2dd56cd266b97c7d69175603f328aeef62e02259.php(7): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined varia...', '/home/bitmzgue/...', 7, Array)
+#1 /home/bitmzgue/elgiustrade.com/scripts/demo/mlmlab/core/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(107): require('/home/bitmzgue/...')
+#2 /home/bitmzgue/elgiustrade.com/scripts/demo/mlmlab/core/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(108): Illuminate\Filesystem\Filesystem::Illuminate\Filesystem\{closure}()
+#3 /home/bitmzgue/elgiustrade.com/scripts/demo/mlmlab/core/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(58): Illuminate\Filesystem\Filesystem->getRequire('/home/bitmzgue/...', Array)
+#4 /home/bit in /home/bitmzgue/elgiustrade.com/scripts/demo/mlmlab/core/storage/framework/views/2dd56cd266b97c7d69175603f328aeef62e02259.php on line 7
