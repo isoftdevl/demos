@@ -1,0 +1,562 @@
+[01-Mar-2020 13:14:22 UTC] PHP Notice:  Undefined index: address in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 383
+[01-Mar-2020 13:14:22 UTC] PHP Notice:  Undefined index: Customer_Phone in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 384
+[01-Mar-2020 13:14:22 UTC] PHP Notice:  Undefined index: type in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 385
+[01-Mar-2020 13:14:22 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 410
+[01-Mar-2020 13:14:22 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 416
+[01-Mar-2020 13:14:22 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 421
+[01-Mar-2020 13:14:22 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 427
+[01-Mar-2020 13:14:22 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 433
+[01-Mar-2020 13:14:22 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 439
+[01-Mar-2020 13:14:22 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 445
+[01-Mar-2020 13:14:22 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 451
+[01-Mar-2020 13:14:22 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 456
+[01-Mar-2020 13:14:22 UTC] PHP Notice:  Undefined variable: level in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 463
+[01-Mar-2020 13:14:22 UTC] PHP Notice:  Undefined variable: showAddress in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 654
+[01-Mar-2020 13:15:09 UTC] PHP Notice:  Undefined index: address in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 383
+[01-Mar-2020 13:15:09 UTC] PHP Notice:  Undefined index: Customer_Phone in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 384
+[01-Mar-2020 13:15:09 UTC] PHP Notice:  Undefined index: type in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 385
+[01-Mar-2020 13:15:09 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 410
+[01-Mar-2020 13:15:09 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 416
+[01-Mar-2020 13:15:09 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 421
+[01-Mar-2020 13:15:09 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 427
+[01-Mar-2020 13:15:09 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 433
+[01-Mar-2020 13:15:09 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 439
+[01-Mar-2020 13:15:09 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 445
+[01-Mar-2020 13:15:09 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 451
+[01-Mar-2020 13:15:09 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 456
+[01-Mar-2020 13:15:09 UTC] PHP Notice:  Undefined variable: level in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 463
+[01-Mar-2020 13:15:09 UTC] PHP Notice:  Undefined variable: showAddress in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 654
+[01-Mar-2020 13:15:09 UTC] PHP Warning:  Illegal string offset 'reflink' in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 849
+[01-Mar-2020 13:15:09 UTC] PHP Warning:  Illegal string offset 'refid' in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 849
+[01-Mar-2020 13:15:09 UTC] PHP Warning:  Illegal string offset 'refcount' in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 852
+[01-Mar-2020 13:15:09 UTC] PHP Warning:  Illegal string offset 'refwallet' in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 854
+[01-Mar-2020 13:15:09 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 854
+[01-Mar-2020 13:15:44 UTC] PHP Notice:  Undefined index: address in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 383
+[01-Mar-2020 13:15:44 UTC] PHP Notice:  Undefined index: Customer_Phone in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 384
+[01-Mar-2020 13:15:44 UTC] PHP Notice:  Undefined index: type in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 385
+[01-Mar-2020 13:15:44 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 410
+[01-Mar-2020 13:15:44 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 416
+[01-Mar-2020 13:15:44 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 421
+[01-Mar-2020 13:15:44 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 427
+[01-Mar-2020 13:15:44 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 433
+[01-Mar-2020 13:15:44 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 439
+[01-Mar-2020 13:15:44 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 445
+[01-Mar-2020 13:15:44 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 451
+[01-Mar-2020 13:15:44 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 456
+[01-Mar-2020 13:15:44 UTC] PHP Notice:  Undefined variable: level in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 463
+[01-Mar-2020 13:15:44 UTC] PHP Notice:  Undefined variable: showAddress in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 654
+[02-Mar-2020 12:41:51 UTC] PHP Notice:  Undefined index: address in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 383
+[02-Mar-2020 12:41:51 UTC] PHP Notice:  Undefined index: Customer_Phone in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 384
+[02-Mar-2020 12:41:51 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 410
+[02-Mar-2020 12:41:51 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 416
+[02-Mar-2020 12:41:51 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 421
+[02-Mar-2020 12:41:51 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 427
+[02-Mar-2020 12:41:51 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 433
+[02-Mar-2020 12:41:51 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 439
+[02-Mar-2020 12:41:51 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 445
+[02-Mar-2020 12:41:51 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 451
+[02-Mar-2020 12:41:51 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 456
+[02-Mar-2020 12:41:51 UTC] PHP Notice:  Undefined variable: level in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 463
+[02-Mar-2020 12:41:51 UTC] PHP Notice:  Undefined variable: showAddress in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 656
+[02-Mar-2020 12:56:19 UTC] PHP Notice:  Undefined index: address in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 383
+[02-Mar-2020 12:56:19 UTC] PHP Notice:  Undefined index: Customer_Phone in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 384
+[02-Mar-2020 12:56:19 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 410
+[02-Mar-2020 12:56:19 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 416
+[02-Mar-2020 12:56:19 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 421
+[02-Mar-2020 12:56:19 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 427
+[02-Mar-2020 12:56:19 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 433
+[02-Mar-2020 12:56:19 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 439
+[02-Mar-2020 12:56:19 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 445
+[02-Mar-2020 12:56:19 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 451
+[02-Mar-2020 12:56:19 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 456
+[02-Mar-2020 12:56:19 UTC] PHP Notice:  Undefined variable: level in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 463
+[02-Mar-2020 12:56:19 UTC] PHP Notice:  Undefined variable: showAddress in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 656
+[02-Mar-2020 13:04:16 UTC] PHP Notice:  Undefined index: address in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 383
+[02-Mar-2020 13:04:16 UTC] PHP Notice:  Undefined index: Customer_Phone in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 384
+[02-Mar-2020 13:04:16 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 410
+[02-Mar-2020 13:04:16 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 416
+[02-Mar-2020 13:04:16 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 421
+[02-Mar-2020 13:04:16 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 427
+[02-Mar-2020 13:04:16 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 433
+[02-Mar-2020 13:04:16 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 439
+[02-Mar-2020 13:04:16 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 445
+[02-Mar-2020 13:04:16 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 451
+[02-Mar-2020 13:04:16 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 456
+[02-Mar-2020 13:04:16 UTC] PHP Notice:  Undefined variable: level in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 463
+[02-Mar-2020 13:04:16 UTC] PHP Notice:  Undefined variable: showAddress in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 639
+[02-Mar-2020 13:05:27 UTC] PHP Notice:  Undefined index: address in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 383
+[02-Mar-2020 13:05:27 UTC] PHP Notice:  Undefined index: Customer_Phone in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 384
+[02-Mar-2020 13:05:27 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 410
+[02-Mar-2020 13:05:27 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 416
+[02-Mar-2020 13:05:27 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 421
+[02-Mar-2020 13:05:27 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 427
+[02-Mar-2020 13:05:27 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 433
+[02-Mar-2020 13:05:27 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 439
+[02-Mar-2020 13:05:27 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 445
+[02-Mar-2020 13:05:27 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 451
+[02-Mar-2020 13:05:27 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 456
+[02-Mar-2020 13:05:27 UTC] PHP Notice:  Undefined variable: level in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 463
+[02-Mar-2020 13:05:27 UTC] PHP Notice:  Undefined variable: showAddress in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 639
+[02-Mar-2020 13:09:53 UTC] PHP Notice:  Undefined index: address in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 383
+[02-Mar-2020 13:09:53 UTC] PHP Notice:  Undefined index: Customer_Phone in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 384
+[02-Mar-2020 13:09:53 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 410
+[02-Mar-2020 13:09:53 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 416
+[02-Mar-2020 13:09:53 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 421
+[02-Mar-2020 13:09:53 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 427
+[02-Mar-2020 13:09:53 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 433
+[02-Mar-2020 13:09:53 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 439
+[02-Mar-2020 13:09:53 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 445
+[02-Mar-2020 13:09:53 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 451
+[02-Mar-2020 13:09:53 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 456
+[02-Mar-2020 13:09:53 UTC] PHP Notice:  Undefined variable: level in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 463
+[02-Mar-2020 13:09:53 UTC] PHP Notice:  Undefined variable: showAddress in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 639
+[02-Mar-2020 13:15:08 UTC] PHP Notice:  Undefined index: address in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 383
+[02-Mar-2020 13:15:08 UTC] PHP Notice:  Undefined index: Customer_Phone in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 384
+[02-Mar-2020 13:15:08 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 410
+[02-Mar-2020 13:15:08 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 416
+[02-Mar-2020 13:15:08 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 421
+[02-Mar-2020 13:15:08 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 427
+[02-Mar-2020 13:15:08 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 433
+[02-Mar-2020 13:15:08 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 439
+[02-Mar-2020 13:15:08 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 445
+[02-Mar-2020 13:15:08 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 451
+[02-Mar-2020 13:15:08 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 456
+[02-Mar-2020 13:15:08 UTC] PHP Notice:  Undefined variable: level in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 463
+[02-Mar-2020 13:15:08 UTC] PHP Notice:  Undefined variable: showAddress in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 639
+[02-Mar-2020 13:15:35 UTC] PHP Notice:  Undefined index: address in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 383
+[02-Mar-2020 13:15:35 UTC] PHP Notice:  Undefined index: Customer_Phone in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 384
+[02-Mar-2020 13:15:35 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 410
+[02-Mar-2020 13:15:35 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 416
+[02-Mar-2020 13:15:35 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 421
+[02-Mar-2020 13:15:35 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 427
+[02-Mar-2020 13:15:35 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 433
+[02-Mar-2020 13:15:35 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 439
+[02-Mar-2020 13:15:35 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 445
+[02-Mar-2020 13:15:35 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 451
+[02-Mar-2020 13:15:35 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 456
+[02-Mar-2020 13:15:35 UTC] PHP Notice:  Undefined variable: level in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 463
+[02-Mar-2020 13:15:35 UTC] PHP Notice:  Undefined variable: showAddress in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 639
+[02-Mar-2020 13:20:21 UTC] PHP Notice:  Undefined index: address in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 383
+[02-Mar-2020 13:20:21 UTC] PHP Notice:  Undefined index: Customer_Phone in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 384
+[02-Mar-2020 13:20:21 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 410
+[02-Mar-2020 13:20:21 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 416
+[02-Mar-2020 13:20:21 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 421
+[02-Mar-2020 13:20:21 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 427
+[02-Mar-2020 13:20:21 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 433
+[02-Mar-2020 13:20:21 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 439
+[02-Mar-2020 13:20:21 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 445
+[02-Mar-2020 13:20:21 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 451
+[02-Mar-2020 13:20:21 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 456
+[02-Mar-2020 13:20:21 UTC] PHP Notice:  Undefined variable: level in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 463
+[02-Mar-2020 13:20:21 UTC] PHP Notice:  Undefined variable: showAddress in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 639
+[02-Mar-2020 13:20:31 UTC] PHP Notice:  Undefined index: address in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 383
+[02-Mar-2020 13:20:31 UTC] PHP Notice:  Undefined index: Customer_Phone in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 384
+[02-Mar-2020 13:20:31 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 410
+[02-Mar-2020 13:20:31 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 416
+[02-Mar-2020 13:20:31 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 421
+[02-Mar-2020 13:20:31 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 427
+[02-Mar-2020 13:20:31 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 433
+[02-Mar-2020 13:20:31 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 439
+[02-Mar-2020 13:20:31 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 445
+[02-Mar-2020 13:20:31 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 451
+[02-Mar-2020 13:20:31 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 456
+[02-Mar-2020 13:20:31 UTC] PHP Notice:  Undefined variable: level in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 463
+[02-Mar-2020 13:20:31 UTC] PHP Notice:  Undefined variable: showAddress in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 639
+[02-Mar-2020 14:04:49 UTC] PHP Notice:  Undefined index: address in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 383
+[02-Mar-2020 14:04:49 UTC] PHP Notice:  Undefined index: Customer_Phone in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 384
+[02-Mar-2020 14:04:49 UTC] PHP Notice:  Undefined index: type in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 385
+[02-Mar-2020 14:04:49 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 410
+[02-Mar-2020 14:04:49 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 416
+[02-Mar-2020 14:04:49 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 421
+[02-Mar-2020 14:04:49 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 427
+[02-Mar-2020 14:04:49 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 433
+[02-Mar-2020 14:04:49 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 439
+[02-Mar-2020 14:04:49 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 445
+[02-Mar-2020 14:04:49 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 451
+[02-Mar-2020 14:04:49 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 456
+[02-Mar-2020 14:04:49 UTC] PHP Notice:  Undefined variable: level in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 463
+[02-Mar-2020 14:04:49 UTC] PHP Notice:  Undefined variable: showAddress in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 639
+[02-Mar-2020 14:05:02 UTC] PHP Notice:  Undefined index: address in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 383
+[02-Mar-2020 14:05:02 UTC] PHP Notice:  Undefined index: Customer_Phone in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 384
+[02-Mar-2020 14:05:02 UTC] PHP Notice:  Undefined index: type in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 385
+[02-Mar-2020 14:05:02 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 410
+[02-Mar-2020 14:05:02 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 416
+[02-Mar-2020 14:05:02 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 421
+[02-Mar-2020 14:05:02 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 427
+[02-Mar-2020 14:05:02 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 433
+[02-Mar-2020 14:05:02 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 439
+[02-Mar-2020 14:05:02 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 445
+[02-Mar-2020 14:05:02 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 451
+[02-Mar-2020 14:05:02 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 456
+[02-Mar-2020 14:05:02 UTC] PHP Notice:  Undefined variable: level in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 463
+[02-Mar-2020 14:05:02 UTC] PHP Notice:  Undefined variable: showAddress in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 639
+[02-Mar-2020 14:05:02 UTC] PHP Warning:  Illegal string offset 'reflink' in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 834
+[02-Mar-2020 14:05:02 UTC] PHP Warning:  Illegal string offset 'refid' in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 834
+[02-Mar-2020 14:05:02 UTC] PHP Warning:  Illegal string offset 'refcount' in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 837
+[02-Mar-2020 14:05:02 UTC] PHP Warning:  Illegal string offset 'refwallet' in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 839
+[02-Mar-2020 14:05:02 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 839
+[02-Mar-2020 14:07:27 UTC] PHP Notice:  Undefined index: address in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 383
+[02-Mar-2020 14:07:27 UTC] PHP Notice:  Undefined index: Customer_Phone in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 384
+[02-Mar-2020 14:07:27 UTC] PHP Notice:  Undefined index: type in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 385
+[02-Mar-2020 14:07:27 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 410
+[02-Mar-2020 14:07:27 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 416
+[02-Mar-2020 14:07:27 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 421
+[02-Mar-2020 14:07:27 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 427
+[02-Mar-2020 14:07:27 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 433
+[02-Mar-2020 14:07:27 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 439
+[02-Mar-2020 14:07:27 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 445
+[02-Mar-2020 14:07:27 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 451
+[02-Mar-2020 14:07:27 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 456
+[02-Mar-2020 14:07:27 UTC] PHP Notice:  Undefined variable: level in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 463
+[02-Mar-2020 14:07:27 UTC] PHP Notice:  Undefined variable: showAddress in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 639
+[02-Mar-2020 17:02:07 UTC] PHP Notice:  Undefined index: address in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 383
+[02-Mar-2020 17:02:07 UTC] PHP Notice:  Undefined index: Customer_Phone in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 384
+[02-Mar-2020 17:02:07 UTC] PHP Notice:  Undefined index: type in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 385
+[02-Mar-2020 17:02:07 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 410
+[02-Mar-2020 17:02:07 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 416
+[02-Mar-2020 17:02:07 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 421
+[02-Mar-2020 17:02:07 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 427
+[02-Mar-2020 17:02:07 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 433
+[02-Mar-2020 17:02:07 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 439
+[02-Mar-2020 17:02:07 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 445
+[02-Mar-2020 17:02:07 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 451
+[02-Mar-2020 17:02:07 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 456
+[02-Mar-2020 17:02:07 UTC] PHP Notice:  Undefined variable: level in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 463
+[02-Mar-2020 17:02:07 UTC] PHP Notice:  Undefined variable: showAddress in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 639
+[02-Mar-2020 17:02:15 UTC] PHP Notice:  Undefined index: address in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 383
+[02-Mar-2020 17:02:15 UTC] PHP Notice:  Undefined index: Customer_Phone in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 384
+[02-Mar-2020 17:02:15 UTC] PHP Notice:  Undefined index: type in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 385
+[02-Mar-2020 17:02:15 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 410
+[02-Mar-2020 17:02:15 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 416
+[02-Mar-2020 17:02:15 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 421
+[02-Mar-2020 17:02:15 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 427
+[02-Mar-2020 17:02:15 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 433
+[02-Mar-2020 17:02:15 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 439
+[02-Mar-2020 17:02:15 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 445
+[02-Mar-2020 17:02:15 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 451
+[02-Mar-2020 17:02:15 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 456
+[02-Mar-2020 17:02:15 UTC] PHP Notice:  Undefined variable: level in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 463
+[02-Mar-2020 17:02:15 UTC] PHP Notice:  Undefined variable: showAddress in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 639
+[02-Mar-2020 17:02:15 UTC] PHP Warning:  Illegal string offset 'reflink' in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 834
+[02-Mar-2020 17:02:15 UTC] PHP Warning:  Illegal string offset 'refid' in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 834
+[02-Mar-2020 17:02:15 UTC] PHP Warning:  Illegal string offset 'refcount' in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 837
+[02-Mar-2020 17:02:15 UTC] PHP Warning:  Illegal string offset 'refwallet' in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 839
+[02-Mar-2020 17:02:15 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 839
+[02-Mar-2020 17:04:12 UTC] PHP Notice:  Undefined index: address in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 383
+[02-Mar-2020 17:04:12 UTC] PHP Notice:  Undefined index: Customer_Phone in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 384
+[02-Mar-2020 17:04:12 UTC] PHP Notice:  Undefined index: type in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 385
+[02-Mar-2020 17:04:12 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 410
+[02-Mar-2020 17:04:12 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 416
+[02-Mar-2020 17:04:12 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 421
+[02-Mar-2020 17:04:12 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 427
+[02-Mar-2020 17:04:12 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 433
+[02-Mar-2020 17:04:12 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 439
+[02-Mar-2020 17:04:12 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 445
+[02-Mar-2020 17:04:12 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 451
+[02-Mar-2020 17:04:12 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 456
+[02-Mar-2020 17:04:12 UTC] PHP Notice:  Undefined variable: level in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 463
+[02-Mar-2020 17:04:12 UTC] PHP Notice:  Undefined variable: showAddress in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 639
+[02-Mar-2020 17:04:17 UTC] PHP Notice:  Undefined index: address in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 383
+[02-Mar-2020 17:04:17 UTC] PHP Notice:  Undefined index: Customer_Phone in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 384
+[02-Mar-2020 17:04:17 UTC] PHP Notice:  Undefined index: type in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 385
+[02-Mar-2020 17:04:17 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 410
+[02-Mar-2020 17:04:17 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 416
+[02-Mar-2020 17:04:17 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 421
+[02-Mar-2020 17:04:17 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 427
+[02-Mar-2020 17:04:17 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 433
+[02-Mar-2020 17:04:17 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 439
+[02-Mar-2020 17:04:17 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 445
+[02-Mar-2020 17:04:17 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 451
+[02-Mar-2020 17:04:17 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 456
+[02-Mar-2020 17:04:17 UTC] PHP Notice:  Undefined variable: level in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 463
+[02-Mar-2020 17:04:17 UTC] PHP Notice:  Undefined variable: showAddress in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 639
+[02-Mar-2020 17:05:26 UTC] PHP Notice:  Undefined index: address in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 383
+[02-Mar-2020 17:05:26 UTC] PHP Notice:  Undefined index: Customer_Phone in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 384
+[02-Mar-2020 17:05:26 UTC] PHP Notice:  Undefined index: type in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 385
+[02-Mar-2020 17:05:26 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 410
+[02-Mar-2020 17:05:26 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 416
+[02-Mar-2020 17:05:26 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 421
+[02-Mar-2020 17:05:26 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 427
+[02-Mar-2020 17:05:26 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 433
+[02-Mar-2020 17:05:26 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 439
+[02-Mar-2020 17:05:26 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 445
+[02-Mar-2020 17:05:26 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 451
+[02-Mar-2020 17:05:26 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 456
+[02-Mar-2020 17:05:26 UTC] PHP Notice:  Undefined variable: level in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 463
+[02-Mar-2020 17:05:26 UTC] PHP Notice:  Undefined variable: showAddress in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 639
+[02-Mar-2020 17:05:32 UTC] PHP Notice:  Undefined index: address in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 383
+[02-Mar-2020 17:05:32 UTC] PHP Notice:  Undefined index: Customer_Phone in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 384
+[02-Mar-2020 17:05:32 UTC] PHP Notice:  Undefined index: type in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 385
+[02-Mar-2020 17:05:32 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 410
+[02-Mar-2020 17:05:32 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 416
+[02-Mar-2020 17:05:32 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 421
+[02-Mar-2020 17:05:32 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 427
+[02-Mar-2020 17:05:32 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 433
+[02-Mar-2020 17:05:32 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 439
+[02-Mar-2020 17:05:32 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 445
+[02-Mar-2020 17:05:32 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 451
+[02-Mar-2020 17:05:32 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 456
+[02-Mar-2020 17:05:32 UTC] PHP Notice:  Undefined variable: level in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 463
+[02-Mar-2020 17:05:32 UTC] PHP Notice:  Undefined variable: showAddress in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 639
+[02-Mar-2020 17:05:32 UTC] PHP Warning:  Illegal string offset 'reflink' in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 834
+[02-Mar-2020 17:05:32 UTC] PHP Warning:  Illegal string offset 'refid' in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 834
+[02-Mar-2020 17:05:32 UTC] PHP Warning:  Illegal string offset 'refcount' in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 837
+[02-Mar-2020 17:05:32 UTC] PHP Warning:  Illegal string offset 'refwallet' in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 839
+[02-Mar-2020 17:05:32 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 839
+[02-Mar-2020 17:08:06 UTC] PHP Notice:  Undefined index: address in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 383
+[02-Mar-2020 17:08:06 UTC] PHP Notice:  Undefined index: Customer_Phone in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 384
+[02-Mar-2020 17:08:06 UTC] PHP Notice:  Undefined index: type in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 385
+[02-Mar-2020 17:08:06 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 410
+[02-Mar-2020 17:08:06 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 416
+[02-Mar-2020 17:08:06 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 421
+[02-Mar-2020 17:08:06 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 427
+[02-Mar-2020 17:08:06 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 433
+[02-Mar-2020 17:08:06 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 439
+[02-Mar-2020 17:08:06 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 445
+[02-Mar-2020 17:08:06 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 451
+[02-Mar-2020 17:08:06 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 456
+[02-Mar-2020 17:08:06 UTC] PHP Notice:  Undefined variable: level in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 463
+[02-Mar-2020 17:08:06 UTC] PHP Notice:  Undefined variable: showAddress in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 639
+[02-Mar-2020 17:08:17 UTC] PHP Notice:  Undefined index: address in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 383
+[02-Mar-2020 17:08:17 UTC] PHP Notice:  Undefined index: Customer_Phone in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 384
+[02-Mar-2020 17:08:17 UTC] PHP Notice:  Undefined index: type in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 385
+[02-Mar-2020 17:08:17 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 410
+[02-Mar-2020 17:08:17 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 416
+[02-Mar-2020 17:08:17 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 421
+[02-Mar-2020 17:08:17 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 427
+[02-Mar-2020 17:08:17 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 433
+[02-Mar-2020 17:08:17 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 439
+[02-Mar-2020 17:08:17 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 445
+[02-Mar-2020 17:08:17 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 451
+[02-Mar-2020 17:08:17 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 456
+[02-Mar-2020 17:08:17 UTC] PHP Notice:  Undefined variable: level in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 463
+[02-Mar-2020 17:08:17 UTC] PHP Notice:  Undefined variable: showAddress in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 639
+[02-Mar-2020 17:08:17 UTC] PHP Warning:  Illegal string offset 'reflink' in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 834
+[02-Mar-2020 17:08:17 UTC] PHP Warning:  Illegal string offset 'refid' in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 834
+[02-Mar-2020 17:08:17 UTC] PHP Warning:  Illegal string offset 'refcount' in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 837
+[02-Mar-2020 17:08:17 UTC] PHP Warning:  Illegal string offset 'refwallet' in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 839
+[02-Mar-2020 17:08:17 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 839
+[02-Mar-2020 17:14:11 UTC] PHP Notice:  Undefined index: address in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 383
+[02-Mar-2020 17:14:11 UTC] PHP Notice:  Undefined index: Customer_Phone in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 384
+[02-Mar-2020 17:14:11 UTC] PHP Notice:  Undefined index: type in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 385
+[02-Mar-2020 17:14:11 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 410
+[02-Mar-2020 17:14:11 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 416
+[02-Mar-2020 17:14:11 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 421
+[02-Mar-2020 17:14:11 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 427
+[02-Mar-2020 17:14:11 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 433
+[02-Mar-2020 17:14:11 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 439
+[02-Mar-2020 17:14:11 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 445
+[02-Mar-2020 17:14:11 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 451
+[02-Mar-2020 17:14:11 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 456
+[02-Mar-2020 17:14:11 UTC] PHP Notice:  Undefined variable: level in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 463
+[02-Mar-2020 17:14:11 UTC] PHP Notice:  Undefined variable: showAddress in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 639
+[02-Mar-2020 17:14:15 UTC] PHP Notice:  Undefined index: address in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 383
+[02-Mar-2020 17:14:15 UTC] PHP Notice:  Undefined index: Customer_Phone in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 384
+[02-Mar-2020 17:14:15 UTC] PHP Notice:  Undefined index: type in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 385
+[02-Mar-2020 17:14:15 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 410
+[02-Mar-2020 17:14:15 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 416
+[02-Mar-2020 17:14:15 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 421
+[02-Mar-2020 17:14:15 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 427
+[02-Mar-2020 17:14:15 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 433
+[02-Mar-2020 17:14:15 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 439
+[02-Mar-2020 17:14:15 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 445
+[02-Mar-2020 17:14:15 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 451
+[02-Mar-2020 17:14:15 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 456
+[02-Mar-2020 17:14:15 UTC] PHP Notice:  Undefined variable: level in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 463
+[02-Mar-2020 17:14:15 UTC] PHP Notice:  Undefined variable: showAddress in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 639
+[02-Mar-2020 17:14:15 UTC] PHP Warning:  Illegal string offset 'reflink' in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 834
+[02-Mar-2020 17:14:15 UTC] PHP Warning:  Illegal string offset 'refid' in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 834
+[02-Mar-2020 17:14:15 UTC] PHP Warning:  Illegal string offset 'refcount' in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 837
+[02-Mar-2020 17:14:15 UTC] PHP Warning:  Illegal string offset 'refwallet' in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 839
+[02-Mar-2020 17:14:15 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 839
+[02-Mar-2020 17:22:38 UTC] PHP Notice:  Undefined index: address in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 383
+[02-Mar-2020 17:22:38 UTC] PHP Notice:  Undefined index: Customer_Phone in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 384
+[02-Mar-2020 17:22:38 UTC] PHP Notice:  Undefined index: type in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 385
+[02-Mar-2020 17:22:38 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 410
+[02-Mar-2020 17:22:38 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 416
+[02-Mar-2020 17:22:38 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 421
+[02-Mar-2020 17:22:38 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 427
+[02-Mar-2020 17:22:38 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 433
+[02-Mar-2020 17:22:38 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 439
+[02-Mar-2020 17:22:38 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 445
+[02-Mar-2020 17:22:38 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 451
+[02-Mar-2020 17:22:38 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 456
+[02-Mar-2020 17:22:38 UTC] PHP Notice:  Undefined variable: level in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 463
+[02-Mar-2020 17:22:38 UTC] PHP Notice:  Undefined variable: showAddress in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 639
+[02-Mar-2020 17:22:47 UTC] PHP Notice:  Undefined index: address in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 383
+[02-Mar-2020 17:22:47 UTC] PHP Notice:  Undefined index: Customer_Phone in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 384
+[02-Mar-2020 17:22:47 UTC] PHP Notice:  Undefined index: type in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 385
+[02-Mar-2020 17:22:47 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 410
+[02-Mar-2020 17:22:47 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 416
+[02-Mar-2020 17:22:47 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 421
+[02-Mar-2020 17:22:47 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 427
+[02-Mar-2020 17:22:47 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 433
+[02-Mar-2020 17:22:47 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 439
+[02-Mar-2020 17:22:47 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 445
+[02-Mar-2020 17:22:47 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 451
+[02-Mar-2020 17:22:47 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 456
+[02-Mar-2020 17:22:47 UTC] PHP Notice:  Undefined variable: level in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 463
+[02-Mar-2020 17:22:47 UTC] PHP Notice:  Undefined variable: showAddress in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 639
+[02-Mar-2020 17:22:47 UTC] PHP Warning:  Illegal string offset 'reflink' in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 834
+[02-Mar-2020 17:22:47 UTC] PHP Warning:  Illegal string offset 'refid' in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 834
+[02-Mar-2020 17:22:47 UTC] PHP Warning:  Illegal string offset 'refcount' in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 837
+[02-Mar-2020 17:22:47 UTC] PHP Warning:  Illegal string offset 'refwallet' in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 839
+[02-Mar-2020 17:22:47 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 839
+[02-Mar-2020 17:30:39 UTC] PHP Notice:  Undefined index: address in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 383
+[02-Mar-2020 17:30:39 UTC] PHP Notice:  Undefined index: Customer_Phone in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 384
+[02-Mar-2020 17:30:39 UTC] PHP Notice:  Undefined index: type in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 385
+[02-Mar-2020 17:30:39 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 410
+[02-Mar-2020 17:30:39 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 416
+[02-Mar-2020 17:30:39 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 421
+[02-Mar-2020 17:30:39 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 427
+[02-Mar-2020 17:30:39 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 433
+[02-Mar-2020 17:30:39 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 439
+[02-Mar-2020 17:30:39 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 445
+[02-Mar-2020 17:30:39 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 451
+[02-Mar-2020 17:30:39 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 456
+[02-Mar-2020 17:30:39 UTC] PHP Notice:  Undefined variable: level in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 463
+[02-Mar-2020 17:30:39 UTC] PHP Notice:  Undefined variable: showAddress in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 639
+[02-Mar-2020 17:30:44 UTC] PHP Notice:  Undefined index: address in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 383
+[02-Mar-2020 17:30:44 UTC] PHP Notice:  Undefined index: Customer_Phone in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 384
+[02-Mar-2020 17:30:44 UTC] PHP Notice:  Undefined index: type in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 385
+[02-Mar-2020 17:30:44 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 410
+[02-Mar-2020 17:30:44 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 416
+[02-Mar-2020 17:30:44 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 421
+[02-Mar-2020 17:30:44 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 427
+[02-Mar-2020 17:30:44 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 433
+[02-Mar-2020 17:30:44 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 439
+[02-Mar-2020 17:30:44 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 445
+[02-Mar-2020 17:30:44 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 451
+[02-Mar-2020 17:30:44 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 456
+[02-Mar-2020 17:30:44 UTC] PHP Notice:  Undefined variable: level in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 463
+[02-Mar-2020 17:30:44 UTC] PHP Notice:  Undefined variable: showAddress in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 639
+[02-Mar-2020 17:30:44 UTC] PHP Warning:  Illegal string offset 'reflink' in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 834
+[02-Mar-2020 17:30:44 UTC] PHP Warning:  Illegal string offset 'refid' in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 834
+[02-Mar-2020 17:30:44 UTC] PHP Warning:  Illegal string offset 'refcount' in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 837
+[02-Mar-2020 17:30:44 UTC] PHP Warning:  Illegal string offset 'refwallet' in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 839
+[02-Mar-2020 17:30:44 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 839
+[03-Mar-2020 11:16:09 UTC] PHP Notice:  Undefined index: address in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 383
+[03-Mar-2020 11:16:09 UTC] PHP Notice:  Undefined index: Customer_Phone in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 384
+[03-Mar-2020 11:16:09 UTC] PHP Notice:  Undefined index: type in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 385
+[03-Mar-2020 11:16:09 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 410
+[03-Mar-2020 11:16:09 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 416
+[03-Mar-2020 11:16:09 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 421
+[03-Mar-2020 11:16:09 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 427
+[03-Mar-2020 11:16:09 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 433
+[03-Mar-2020 11:16:09 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 439
+[03-Mar-2020 11:16:09 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 445
+[03-Mar-2020 11:16:09 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 451
+[03-Mar-2020 11:16:09 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 456
+[03-Mar-2020 11:16:09 UTC] PHP Notice:  Undefined variable: level in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 463
+[03-Mar-2020 11:16:09 UTC] PHP Notice:  Undefined variable: showAddress in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 639
+[03-Mar-2020 11:17:32 UTC] PHP Notice:  Undefined index: address in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 383
+[03-Mar-2020 11:17:32 UTC] PHP Notice:  Undefined index: Customer_Phone in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 384
+[03-Mar-2020 11:17:32 UTC] PHP Notice:  Undefined index: type in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 385
+[03-Mar-2020 11:17:32 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 410
+[03-Mar-2020 11:17:32 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 416
+[03-Mar-2020 11:17:32 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 421
+[03-Mar-2020 11:17:32 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 427
+[03-Mar-2020 11:17:32 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 433
+[03-Mar-2020 11:17:32 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 439
+[03-Mar-2020 11:17:32 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 445
+[03-Mar-2020 11:17:32 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 451
+[03-Mar-2020 11:17:32 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 456
+[03-Mar-2020 11:17:32 UTC] PHP Notice:  Undefined variable: level in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 463
+[03-Mar-2020 11:17:33 UTC] PHP Notice:  Undefined variable: showAddress in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 639
+[03-Mar-2020 11:17:33 UTC] PHP Warning:  Illegal string offset 'reflink' in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 834
+[03-Mar-2020 11:17:33 UTC] PHP Warning:  Illegal string offset 'refid' in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 834
+[03-Mar-2020 11:17:33 UTC] PHP Warning:  Illegal string offset 'refcount' in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 837
+[03-Mar-2020 11:17:33 UTC] PHP Warning:  Illegal string offset 'refwallet' in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 839
+[03-Mar-2020 11:17:33 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 839
+[03-Mar-2020 11:50:42 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 636
+[03-Mar-2020 11:50:50 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 636
+[03-Mar-2020 11:54:14 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 633
+[03-Mar-2020 11:55:18 UTC] PHP Notice:  Undefined index: address in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 383
+[03-Mar-2020 11:55:18 UTC] PHP Notice:  Undefined index: Customer_Phone in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 384
+[03-Mar-2020 11:55:18 UTC] PHP Notice:  Undefined index: type in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 385
+[03-Mar-2020 11:55:18 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 412
+[03-Mar-2020 11:55:18 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 418
+[03-Mar-2020 11:55:18 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 423
+[03-Mar-2020 11:55:18 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 429
+[03-Mar-2020 11:55:18 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 435
+[03-Mar-2020 11:55:18 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 441
+[03-Mar-2020 11:55:18 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 447
+[03-Mar-2020 11:55:18 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 453
+[03-Mar-2020 11:55:18 UTC] PHP Notice:  Undefined variable: serviceID in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 458
+[03-Mar-2020 11:55:18 UTC] PHP Notice:  Undefined variable: level in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 465
+[03-Mar-2020 11:55:18 UTC] PHP Notice:  Undefined variable: showAddress in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 646
+[03-Mar-2020 11:55:18 UTC] PHP Notice:  Array to string conversion in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 670
+[03-Mar-2020 11:55:47 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 633
+[03-Mar-2020 11:56:25 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 633
+[03-Mar-2020 11:58:06 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 633
+[03-Mar-2020 11:58:24 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 633
+[03-Mar-2020 11:58:40 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 633
+[03-Mar-2020 11:59:41 UTC] PHP Notice:  Undefined index: address in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 383
+[03-Mar-2020 11:59:41 UTC] PHP Notice:  Undefined index: Customer_Phone in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 384
+[03-Mar-2020 11:59:41 UTC] PHP Notice:  Undefined index: type in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 385
+[03-Mar-2020 11:59:41 UTC] PHP Notice:  Undefined variable: level in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 435
+[03-Mar-2020 11:59:41 UTC] PHP Notice:  Undefined variable: showAddress in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 669
+[03-Mar-2020 11:59:41 UTC] PHP Notice:  Array to string conversion in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 693
+[03-Mar-2020 12:00:04 UTC] PHP Notice:  Undefined index: address in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 383
+[03-Mar-2020 12:00:04 UTC] PHP Notice:  Undefined index: Customer_Phone in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 384
+[03-Mar-2020 12:00:04 UTC] PHP Notice:  Undefined index: type in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 385
+[03-Mar-2020 12:00:04 UTC] PHP Notice:  Undefined variable: level in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 435
+[03-Mar-2020 12:00:04 UTC] PHP Notice:  Undefined variable: showAddress in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 669
+[03-Mar-2020 12:00:04 UTC] PHP Notice:  Array to string conversion in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 693
+[03-Mar-2020 12:01:36 UTC] PHP Notice:  Undefined index: address in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 383
+[03-Mar-2020 12:01:36 UTC] PHP Notice:  Undefined index: Customer_Phone in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 384
+[03-Mar-2020 12:01:36 UTC] PHP Notice:  Undefined index: type in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 385
+[03-Mar-2020 12:01:36 UTC] PHP Notice:  Undefined variable: level in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 435
+[03-Mar-2020 12:01:36 UTC] PHP Notice:  Undefined variable: showAddress in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 669
+[03-Mar-2020 12:01:36 UTC] PHP Notice:  Array to string conversion in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 693
+[03-Mar-2020 12:05:07 UTC] PHP Notice:  Undefined index: address in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 383
+[03-Mar-2020 12:05:07 UTC] PHP Notice:  Undefined index: Customer_Phone in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 384
+[03-Mar-2020 12:05:07 UTC] PHP Notice:  Undefined index: type in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 385
+[03-Mar-2020 12:05:07 UTC] PHP Notice:  Undefined variable: level in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 435
+[03-Mar-2020 12:05:07 UTC] PHP Notice:  Undefined variable: showAddress in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 669
+[03-Mar-2020 12:05:26 UTC] PHP Notice:  Undefined index: address in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 383
+[03-Mar-2020 12:05:26 UTC] PHP Notice:  Undefined index: Customer_Phone in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 384
+[03-Mar-2020 12:05:26 UTC] PHP Notice:  Undefined index: type in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 385
+[03-Mar-2020 12:05:26 UTC] PHP Notice:  Undefined variable: level in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 435
+[03-Mar-2020 12:05:30 UTC] PHP Notice:  Undefined variable: showAddress in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 669
+[03-Mar-2020 12:05:30 UTC] PHP Warning:  Illegal string offset 'reflink' in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 864
+[03-Mar-2020 12:05:30 UTC] PHP Warning:  Illegal string offset 'refid' in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 864
+[03-Mar-2020 12:05:30 UTC] PHP Warning:  Illegal string offset 'refcount' in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 867
+[03-Mar-2020 12:05:30 UTC] PHP Warning:  Illegal string offset 'refwallet' in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 869
+[03-Mar-2020 12:05:30 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 869
+[03-Mar-2020 12:54:02 UTC] PHP Notice:  Undefined index: address in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 383
+[03-Mar-2020 12:54:02 UTC] PHP Notice:  Undefined index: Customer_Phone in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 384
+[03-Mar-2020 12:54:02 UTC] PHP Notice:  Undefined index: type in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 385
+[03-Mar-2020 12:54:02 UTC] PHP Notice:  Undefined variable: level in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 435
+[03-Mar-2020 12:54:02 UTC] PHP Notice:  Undefined variable: showAddress in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 647
+[03-Mar-2020 12:54:09 UTC] PHP Notice:  Undefined index: address in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 383
+[03-Mar-2020 12:54:09 UTC] PHP Notice:  Undefined index: Customer_Phone in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 384
+[03-Mar-2020 12:54:09 UTC] PHP Notice:  Undefined index: type in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 385
+[03-Mar-2020 12:54:09 UTC] PHP Notice:  Undefined variable: level in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 435
+[03-Mar-2020 12:54:10 UTC] PHP Notice:  Undefined variable: headers in /home/doorsteprecharge/public_html/portal/inc/notification.php on line 31
+[03-Mar-2020 12:54:10 UTC] PHP Notice:  Undefined variable: fname in /home/doorsteprecharge/public_html/portal/inc/notification.php on line 102
+[03-Mar-2020 12:54:12 UTC] PHP Notice:  Undefined variable: showAddress in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 647
+[03-Mar-2020 12:54:12 UTC] PHP Warning:  Illegal string offset 'reflink' in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 842
+[03-Mar-2020 12:54:12 UTC] PHP Warning:  Illegal string offset 'refid' in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 842
+[03-Mar-2020 12:54:12 UTC] PHP Warning:  Illegal string offset 'refcount' in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 845
+[03-Mar-2020 12:54:12 UTC] PHP Warning:  Illegal string offset 'refwallet' in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 847
+[03-Mar-2020 12:54:12 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 847
+[03-Mar-2020 13:07:58 UTC] PHP Notice:  Undefined index: address in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 383
+[03-Mar-2020 13:07:58 UTC] PHP Notice:  Undefined index: Customer_Phone in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 384
+[03-Mar-2020 13:07:58 UTC] PHP Notice:  Undefined index: type in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 385
+[03-Mar-2020 13:07:58 UTC] PHP Notice:  Undefined variable: level in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 435
+[03-Mar-2020 13:07:58 UTC] PHP Notice:  Undefined variable: showAddress in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 647
+[03-Mar-2020 13:27:45 UTC] PHP Notice:  Undefined index: address in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 383
+[03-Mar-2020 13:27:45 UTC] PHP Notice:  Undefined index: Customer_Phone in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 384
+[03-Mar-2020 13:27:45 UTC] PHP Notice:  Undefined index: type in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 385
+[03-Mar-2020 13:27:45 UTC] PHP Notice:  Undefined variable: level in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 435
+[03-Mar-2020 13:27:45 UTC] PHP Notice:  Undefined variable: showAddress in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 648
+[03-Mar-2020 13:31:10 UTC] PHP Notice:  Undefined index: address in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 383
+[03-Mar-2020 13:31:10 UTC] PHP Notice:  Undefined index: Customer_Phone in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 384
+[03-Mar-2020 13:31:10 UTC] PHP Notice:  Undefined index: type in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 385
+[03-Mar-2020 13:31:10 UTC] PHP Notice:  Undefined variable: level in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 435
+[03-Mar-2020 13:31:10 UTC] PHP Notice:  Undefined variable: showAddress in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 648
+[03-Mar-2020 13:38:12 UTC] PHP Notice:  Undefined index: address in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 384
+[03-Mar-2020 13:38:12 UTC] PHP Notice:  Undefined index: Customer_Phone in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 385
+[03-Mar-2020 13:38:12 UTC] PHP Notice:  Undefined index: type in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 386
+[03-Mar-2020 13:38:12 UTC] PHP Notice:  Undefined variable: showAddress in /home/doorsteprecharge/public_html/portal/transaction-view/paytv/index.php on line 649
