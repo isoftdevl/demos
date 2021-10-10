@@ -1,0 +1,5 @@
+[29-Sep-2021 09:34:08 America/New_York] PHP Notice:  Undefined index: host in /home/bitmzgue/elgiustrade.com/scripts/demo/dipro/install/index.php on line 268
+[29-Sep-2021 09:34:08 America/New_York] PHP Notice:  Undefined index: user in /home/bitmzgue/elgiustrade.com/scripts/demo/dipro/install/index.php on line 269
+[29-Sep-2021 09:34:08 America/New_York] PHP Notice:  Undefined index: pass in /home/bitmzgue/elgiustrade.com/scripts/demo/dipro/install/index.php on line 270
+[29-Sep-2021 09:34:08 America/New_York] PHP Notice:  Undefined index: name in /home/bitmzgue/elgiustrade.com/scripts/demo/dipro/install/index.php on line 271
+[29-Sep-2021 09:36:36 America/New_York] PHP Notice:  Undefined variable: appurl in /home/bitmzgue/elgiustrade.com/scripts/demo/dipro/install/index.php on line 293
